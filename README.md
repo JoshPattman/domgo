@@ -1,3 +1,5 @@
+## Warning
+This is a delevopment pacakge that i personally use for little projects. I reccommend you don't use this as it's unstable and i only add features when I need them
 ## Usage
 ### Copy JS files
 Copy the JS files from the `/js/` directory of this repo to a directory of your web app
